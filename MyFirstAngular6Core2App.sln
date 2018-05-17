@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstAngular6Core2App", "MyFirstAngular6Core2App\MyFirstAngular6Core2App.csproj", "{D80B6233-53D4-432E-A36E-516190F1D497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80B6233-53D4-432E-A36E-516190F1D497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80B6233-53D4-432E-A36E-516190F1D497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80B6233-53D4-432E-A36E-516190F1D497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80B6233-53D4-432E-A36E-516190F1D497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC94093-C6DA-469F-B3FD-3F07CCAA0800}
+	EndGlobalSection
+EndGlobal

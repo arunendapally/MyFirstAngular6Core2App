@@ -1,0 +1,11 @@
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\bin\Debug\netcoreapp2.0\MyFirstAngular6Core2App.deps.json
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\bin\Debug\netcoreapp2.0\MyFirstAngular6Core2App.runtimeconfig.json
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\bin\Debug\netcoreapp2.0\MyFirstAngular6Core2App.runtimeconfig.dev.json
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\bin\Debug\netcoreapp2.0\MyFirstAngular6Core2App.dll
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.csproj.CoreCompileInputs.cache
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.AssemblyInfoInputs.cache
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.AssemblyInfo.cs
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\bin\Debug\netcoreapp2.0\MyFirstAngular6Core2App.pdb
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.dll
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.pdb
+C:\Arun\Project\MyFirstAngular6Core2App\MyFirstAngular6Core2App\obj\Debug\netcoreapp2.0\MyFirstAngular6Core2App.csprojAssemblyReference.cache

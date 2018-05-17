@@ -1,0 +1,22 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <p *ngIf="!values"><em>Loading...</em></p>
+
+  <div style="height: 350px; overflow: auto">
+    <table class='table' *ngIf="values">
+      <thead>
+        <tr>
+          <th>Values</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let value of values">
+          <td>{{ value }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
